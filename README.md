@@ -1,10 +1,32 @@
-- 👋 Hi, I’m @patrickadika
-- 👀 I’m interested in social media marketing
-- 🌱 I will be joining the college soon
-- 💞️ I’m looking to collaborate on social media marketing
-- 📫 You can reach me via email @ adipatrick91@gmail.com
+-Hi, I'm Patrick Adika 👋
 
-<!---
-patrickadika/patrickadika is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💻 Entry-Level IT Professional | Aspiring Frontend Developer
+I'm an entry-level IT learner passionate about technology and frontend development. I am currently studying IT at the Catholic University through in-person classes and at BYU–Idaho through online learning.
+
+🎓 Education
+Currently pursuing IT studies through in-person and online classes.
+Expected to complete my in-person IT studies in 2026.
+Expected to complete my online IT studies by the end of 2027.
+
+🌱 Currently Learning
+HTML and CSS
+JavaScript
+Java
+C++
+Computer hardware and IT support
+Frontend and backend web development
+
+🎯 My Goals
+Build practical projects and improve my coding skills.
+Develop responsive and user-friendly websites.
+Grow my knowledge and experience in the IT industry.
+Collaborate with other learners and developers.
+
+🤝 I'm Open To
+Collaborating on beginner-friendly frontend projects.
+Learning from other developers.
+Entry-level IT and frontend development opportunities.
+
+📫 Contact Me
+Email: adipatrick91@gmail.com
+GitHub: @patrickadika
